@@ -2,3 +2,4 @@ read customer name
 read items
 read price
 calculate total
+if items<=10 offer discount
